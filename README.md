@@ -4,8 +4,8 @@ RoseTiny
 An ATTiny13 RGB LED flower controlled by RC-5 protocol infrared remote.
 
 
-Acknowlegments
---------------
+Acknowledgments
+---------------
 
 This program uses avr-rc5 library by Filip Sobalski <<pinkeen@gmail.com>> licensed under the GNU General Public License version 3 and made available at <https://github.com/pinkeen/avr-rc5>. The library has been adapted to work on the ATTiny13 microcontroller.
 
